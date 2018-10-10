@@ -24,3 +24,4 @@ def solve_pb_55():
             else:
                 nb_itérations+=1
     return 10000-c
+print(solve_pb_55())

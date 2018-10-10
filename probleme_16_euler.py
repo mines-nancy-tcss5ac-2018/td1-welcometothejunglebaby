@@ -5,3 +5,4 @@ def solve_pb_16(nombre):
     for i in range(longueur):
         S+=int(liste[i])           #on somme tous les chiffres composant nombre
     return S
+print(solve_pb_16(2**1000))
